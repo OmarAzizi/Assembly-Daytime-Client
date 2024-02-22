@@ -1,2 +1,3 @@
 # Assembly-Daytime-Client
-Daytime client in x86_64 Assembly
+![Assembly Icon](https://img.shields.io/badge/x86-Assembly-green?style=for-the-badge&logo=assembly)
+
